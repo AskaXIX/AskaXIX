@@ -13,7 +13,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=askaxix&theme=solarized_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=askaxix&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=askaxix&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=askaxix&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=askaxix&theme=solarized_dark)
