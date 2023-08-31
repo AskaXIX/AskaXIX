@@ -3,3 +3,4 @@
 <h3 align="center">Ambitious metis, python enjoyer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askaxix)](https://github.com/askaxix/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askaxix&theme=solarized_dark)
