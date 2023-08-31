@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Ambitious metis, python enjoyer</h3>
 
-* Here is some information about my life with a snake
+* A little romance between me and the snake
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askaxix&theme=solarized_dark)
